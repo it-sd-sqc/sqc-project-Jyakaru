@@ -1,4 +1,4 @@
 # Your project name
-Your given and family name.
+Jacky Yang
 
 A one-sentence description of your project.
