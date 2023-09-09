@@ -1,4 +1,4 @@
 # Your project name
 Jacky Yang
 
-A one-sentence description of your project.
+A collection of stoires and myths from Japan.
